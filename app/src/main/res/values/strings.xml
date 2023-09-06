@@ -1,0 +1,209 @@
+<resources>
+    <string name="app_name">AnggotaASEAN</string>
+    <string name="country_name">Negara</string>
+    <string name="Nama">Nama</string>
+    <string name="president_name">Nama Presiden</string>
+    <string name="titik2">:</string>
+    <string name="mata_uang">Mata Uang</string>
+    <string name="nama_mata_uang">Nama Mata Uang</string>
+    <string name="bahasa">Bahasa</string>
+    <string name="status">Status</string>
+    <string name="about">about</string>
+    <string name="email">Email</string>
+    <string name="nama_negara">Nama Negara</string>
+    <string name="kepala_negara">Kepala Negara</string>
+    <string name="kepala_pemerintahan">Kepala Pemerintahan</string>
+    <string name="ibukota">Ibukota</string>
+    <string name="hari_kemerdekaan">Hari Kemerdekaan</string>
+    <string name="jumlah_populasi">Jumlah Populasi</string>
+    <string name="gdp">GDP</string>
+    <string name="gdp_perkapita">GDP perkapita</string>
+    <string name="luas_wilayah">Luas Wilayah</string>
+
+    <string-array name="data_name">
+        <item>Joko Widodo</item>
+        <item>Haji Hassanal Bolkiah</item>
+        <item>Hun Sen</item>
+        <item>Thongloun Sisoulith</item>
+        <item>Mahathir Mohamad</item>
+        <item>Win Myint</item>
+        <item>Rodrigo Duterte</item>
+        <item>Lee Hsien Loong</item>
+        <item>Prayut Chan-o-cha</item>
+        <item>Nguyễn Xuân Phúc</item>
+    </string-array>
+
+    <string-array name="data_description">
+        <item>Presiden</item>
+        <item>Sultan dan Perdana Menteri Brunei Darussalam</item>
+        <item>Perdana Menteri Kamboja</item>
+        <item>Perdana Menteri Laos</item>
+        <item>Perdana Menteri Malaysia</item>
+        <item>Presiden Myanmar</item>
+        <item>Presiden Filipina</item>
+        <item>Perdana Menteri Singapura</item>
+        <item>Perdana Menteri Thailand</item>
+        <item>Perdana Menteri Vietnam</item>
+    </string-array>
+
+
+    <string-array name="data_nama_negara">
+        <item>Indonesia</item>
+        <item>Brunei Darussalam</item>
+        <item>Kamboja</item>
+        <item>Laos</item>
+        <item>Malaysia</item>
+        <item>Myanmar</item>
+        <item>Filipina</item>
+        <item>Singapura</item>
+        <item>Thailand</item>
+        <item>Vietnam</item>
+    </string-array>
+
+    <string-array name="data_kepala_negara">
+        <item>Presiden</item>
+        <item>Sultan</item>
+        <item>Raja</item>
+        <item>Presiden</item>
+        <item>Raja</item>
+        <item>Presiden</item>
+        <item>Presiden</item>
+        <item>Presiden</item>
+        <item>Raja</item>
+        <item>Presiden</item>
+    </string-array>
+
+    <string-array name="data_kepala_pemerintahan">
+        <item>Presiden</item>
+        <item>Perdana Menteri</item>
+        <item>Perdana Menteri</item>
+        <item>Perdana Menteri</item>
+        <item>Perdana Menteri</item>
+        <item>Presiden</item>
+        <item>Presiden</item>
+        <item>Perdana Menteri</item>
+        <item>Perdana Menteri</item>
+        <item>Perdana Menteri</item>
+    </string-array>
+
+    <string-array name="data_ibuKota">
+        <item>Jakarta</item>
+        <item>Bandar Seri Begawan</item>
+        <item>Phnom Penh</item>
+        <item>Vientiane</item>
+        <item>Kuala Lumpur</item>
+        <item>Nay Pyi Taw</item>
+        <item>Manila</item>
+        <item>Singapura</item>
+        <item>Bangkok</item>
+        <item>Hanoi</item>
+    </string-array>
+
+    <string-array name="data_hari_kemerdekaan">
+        <item>17 Agustus</item>
+        <item>23 Februari</item>
+        <item>9 November</item>
+        <item>2 Desember</item>
+        <item>31 Agustus</item>
+        <item>4 Januari</item>
+        <item>12 Juni</item>
+        <item>9 Agustus</item>
+        <item>5 Desember</item>
+        <item>2 September</item>
+    </string-array>
+
+    <string-array name="data_bahasa">
+        <item>Bahasa Indonesia</item>
+        <item>Melayu, Inggris dan Mandarin</item>
+        <item>Khmer, Perancis, dan Inggris</item>
+        <item>Lao, Prancis, dan Inggris</item>
+        <item>Melayu, Inggris, Cina, dan Tamil</item>
+        <item>Burma</item>
+        <item>Filipino / Tagalog dan Inggris</item>
+        <item>Inggris, Cina Mandarin, Melayu, dan Tamil</item>
+        <item>Thai</item>
+        <item>Vietnam</item>
+    </string-array>
+
+    <string-array name="data_mata_uang">
+        <item>Rupiah (IDR)</item>
+        <item>Dolar Brunei (BND)</item>
+        <item>Riel (KHR)</item>
+        <item>Kip (LAK)</item>
+        <item>Ringgit (MYR)</item>
+        <item>Kyat (MMK)</item>
+        <item>Peso (PHP)</item>
+        <item>Dolar Singapura (SGD)</item>
+        <item>Baht (THB)</item>
+        <item>Dong (VND)</item>
+    </string-array>
+
+    <string-array name="data_populasi">
+        <item>261,1 juta (2016)</item>
+        <item>423.196 jiwa (2016)</item>
+        <item>15.76 juta jiwa (2016)</item>
+        <item>6.76 juta jiwa (2016)</item>
+        <item>31.19 juta jiwa (2016)</item>
+        <item>52.89 juta jiwa (2016)</item>
+        <item>103.3 juta jiwa (2016)</item>
+        <item>5.61 juta jiwa (2016)</item>
+        <item>68.86 juta jiwa (2016)</item>
+        <item>92,7 juta jiwa (2016)</item>
+    </string-array>
+
+    <string-array name="data_gdp">
+        <item>USD 1.015 milyar (est. 2017)</item>
+        <item>USD 11,8 milyar (est. 2017)</item>
+        <item>USD 20,9 milyar (est. 2017)</item>
+        <item>USD 14,8 milyar (est. 2017)</item>
+        <item>USD 336.3 milyar (est. 2017)</item>
+        <item>USD 75,7 milyar (est. 2017)</item>
+        <item>USD 348.6 milyar (est. 2017)</item>
+        <item>USD 311,3 milyar (est. 2017)</item>
+        <item>USD 403.6 milyar (est. 2017)</item>
+        <item>USD 215,9 milyar (est. 2017)</item>
+    </string-array>
+
+    <string-array name="data_gdp_kapita">
+        <item>USD 3.871 (est. 2017)</item>
+        <item>USD 27.561 (est. 2017)</item>
+        <item>USD 1.308 (est. 2017)</item>
+        <item>USD 2.029 (est. 2017)</item>
+        <item>USD 10.426 (est. 2017)</item>
+        <item>USD 1.438,8 (est. 2017)</item>
+        <item>USD 3.280 (est. 2017)</item>
+        <item>USD 55,252 (est. 2017)</item>
+        <item>USD 5.842 (est. 2017)</item>
+        <item>USD 2.307 (est. 2017)</item>
+    </string-array>
+
+    <string-array name="data_luas_wilayah">
+        <item>1.904.569 km persegi</item>
+        <item>5.765 km persegi</item>
+        <item>181.035 km persegi</item>
+        <item>237.955 km persegi</item>
+        <item>329.847 km persegi</item>
+        <item>676.578 km persegi</item>
+        <item>343.448 km persegi</item>
+        <item>721.5 km persegi</item>
+        <item>513.120 km persegi</item>
+        <item>331.230,8 km persegi</item>
+    </string-array>
+
+
+    <integer-array name="data.name.photo">
+        <item>@drawable/joko_widodo</item>
+        <item>@drawable/haji_hassanal_bolkiah</item>
+        <item>@drawable/hun_sen</item>
+        <item>@drawable/thongloun_sisoulith</item>
+        <item>@drawable/mahathir_mohamad</item>
+        <item>@drawable/win_myint</item>
+        <item>@drawable/rodrigo_duterte</item>
+        <item>@drawable/lee_hsien_loong</item>
+        <item>@drawable/prayut_chanocha</item>
+        <item>@drawable/nguyen_xuan_phuc</item>
+
+    </integer-array>
+
+
+</resources>
